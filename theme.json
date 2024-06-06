@@ -1,7 +1,12 @@
 {
   "theme": {
-    "primary": "#3b82f6",
-    "accent": "#f97316",
-    "logoUrl": "https://mtek-services.com/wp-content/uploads/2023/01/Group-2219.svg"
+    "primaryColor"   : "#3b82f6",
+    "secondaryColor" : "#f97316",
+    "infoColor"      :  "#0ea5e9",
+    "warningColor"   :  "#eab308",
+    "successColor"   :  "#22c55e",
+    "dangerColor"    :  "#ef4444",
+    "logoUrl"        :  "https://mtek-services.com/wp-content/uploads/2023/01/Group-2219.svg",
+    "faviconUrl"     :  "https://motor.mtek-services.com/static/media/favicon.3bb9bbacc404ee4ae155.ico",
   }
 }
