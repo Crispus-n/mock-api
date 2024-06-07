@@ -2,24 +2,36 @@
     {
         "id": "mtek-dbbcd171-aa7c-4405-ad9c-4f8ab9ee0007",
         "name": "Hillcroft Insurance Brokers",
-        "primaryColor": "#36c2d7",
-        "secondaryColor": "#000000",
-        "infoColor": "#0ea5e9",
-        "warningColor": "#eab308",
-        "successColor": "#22c55e",
-        "dangerColor": "#ef4444",
+        "primaryColor": "#36C2D7",
+        "secondaryColor": "#167F9F",
+        "infoColor": "#A3AED0",
+        "warningColor": "#D73636",
+        "successColor": "#36D73C",
+        "dangerColor": "#FF0000",
         "logoUrl": "https://motor.mtek-services.com/static/media/logo.d4a3463057a66b9ec561.svg",
         "faviconUrl": "https://motor.mtek-services.com/static/media/favicon.3bb9bbacc404ee4ae155.ico"
     },
     {
+        "id": "hf-6584-499f-b2a7-419c72394561",
+        "name": "HF Group",
+        "primaryColor": "#004F9F",
+        "secondaryColor": "#EF7D00",
+        "infoColor": "#A3AED0",
+        "warningColor": "#D73636",
+        "successColor": "#36D73C",
+        "dangerColor": "#FF0000",
+        "logoUrl": "https://www.hfgroup.co.ke/HFC.png",
+        "faviconUrl": "https://www.hfgroup.co.ke/HFC.png"
+    }
+    {
         "id": "nbk-6584-499f-b2a7-419c72394561",
         "name": "National  Bank Of Kenya",
-        "primaryColor": "#ffba00",
-        "secondaryColor": "#422a21",
-        "infoColor": "#0ea5e9",
-        "warningColor": "#eab308",
-        "successColor": "#22c55e",
-        "dangerColor": "#ef4444",
+        "primaryColor": "#441F15",
+        "secondaryColor": "#FFCC00",
+        "infoColor": "#A3AED0",
+        "warningColor": "#D73636",
+        "successColor": "#36D73C",
+        "dangerColor": "#FF0000",
         "logoUrl": "https://www.nationalbank.co.ke/templates/nbk/images/logo.svg",
         "faviconUrl": "https://www.nationalbank.co.ke/templates/nbk/images/favicon/favicon-32x32.png"
     }
