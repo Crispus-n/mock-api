@@ -1,1 +1,4 @@
-[{"id": "savannabits-ucv76", "displayName": "Savannabits Ltd", "host": "savannabits.mydomain.com" }]
+[
+  {"id": "national-bank-5zlzu", "displayName": "National Bank of Kenya", "host": "nbk.mydomain.com" },
+  {"id": "hf-group-edul7", "displayName": "HF Group", "host": "hf.mydomain.com" }
+]
