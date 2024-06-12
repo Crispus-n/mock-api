@@ -1,4 +1,5 @@
 [
   {"id": "national-bank-5zlzu", "displayName": "National Bank of Kenya", "host": "nbk.mydomain.com" },
-  {"id": "hf-group-edul7", "displayName": "HF Group", "host": "hf.mydomain.com" }
+  {"id": "hf-group-edul7", "displayName": "HF Group", "host": "hf.mydomain.com" },
+  {"id": "mtek-9132b", "displayName": "mTek", "host": "mtek.mydomain.com" }
 ]
