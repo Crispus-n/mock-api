@@ -1,6 +1,7 @@
 [
     {
         "id": "mtek-9132b",
+        "tenantId": null,
         "name": "Hillcroft Insurance Brokers",
         "primaryColor": "#36C2D7",
         "secondaryColor": "#167F9F",
@@ -13,6 +14,7 @@
     },
     {
         "id": "hf-group-edul7",
+        "tenantId": "",
         "name": "HF Group",
         "primaryColor": "#004F9F",
         "secondaryColor": "#EF7D00",
@@ -25,6 +27,7 @@
     },
     {
         "id": "national-bank-5zlzu",
+        "tenantId": "",
         "name": "National  Bank Of Kenya",
         "primaryColor": "#441F15",
         "secondaryColor": "#FFCC00",
