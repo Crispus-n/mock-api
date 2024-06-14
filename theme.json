@@ -10,11 +10,12 @@
         "successColor": "#36D73C",
         "dangerColor": "#FF0000",
         "logoUrl": "https://motor.mtek-services.com/static/media/logo.d4a3463057a66b9ec561.svg",
-        "faviconUrl": "https://motor.mtek-services.com/static/media/favicon.3bb9bbacc404ee4ae155.ico"
+        "faviconUrl": "https://motor.mtek-services.com/static/media/favicon.3bb9bbacc404ee4ae155.ico",
+        "coverImageUrl": "https://raw.githubusercontent.com/coolsam726/mock-api/main/fullscreen-cover.jpg"
     },
     {
         "id": "hf-group-edul7",
-        "tenantId": "",
+        "tenantId": null,
         "name": "HF Group",
         "primaryColor": "#004F9F",
         "secondaryColor": "#EF7D00",
@@ -23,11 +24,12 @@
         "successColor": "#36D73C",
         "dangerColor": "#FF0000",
         "logoUrl": "https://www.hfgroup.co.ke/HFC.png",
-        "faviconUrl": "https://www.hfgroup.co.ke/HFC.png"
+        "faviconUrl": "https://www.hfgroup.co.ke/HFC.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/coolsam726/mock-api/main/fullscreen-cover.jpg"
     },
     {
         "id": "national-bank-5zlzu",
-        "tenantId": "",
+        "tenantId": null,
         "name": "National  Bank Of Kenya",
         "primaryColor": "#441F15",
         "secondaryColor": "#FFCC00",
@@ -36,6 +38,7 @@
         "successColor": "#36D73C",
         "dangerColor": "#FF0000",
         "logoUrl": "https://www.nationalbank.co.ke/templates/nbk/images/logo.svg",
-        "faviconUrl": "https://www.nationalbank.co.ke/templates/nbk/images/favicon/favicon-32x32.png"
+        "faviconUrl": "https://www.nationalbank.co.ke/templates/nbk/images/favicon/favicon-32x32.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/coolsam726/mock-api/main/fullscreen-cover.jpg"
     }
 ]
