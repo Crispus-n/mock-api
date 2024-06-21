@@ -1,8 +1,8 @@
 [
     {
-        "id": "mtek-9132b",
-        "tenantId": null,
+        "id": "mtek-dbbcd171-aa7c-4405-ad9c-4f8ab9ee0007",
         "name": "Hillcroft Insurance Brokers",
+        "tenantId": null,
         "primaryColor": "#36C2D7",
         "secondaryColor": "#167F9F",
         "infoColor": "#A3AED0",
@@ -11,10 +11,10 @@
         "dangerColor": "#FF0000",
         "logoUrl": "https://motor.mtek-services.com/static/media/logo.d4a3463057a66b9ec561.svg",
         "faviconUrl": "https://motor.mtek-services.com/static/media/favicon.3bb9bbacc404ee4ae155.ico",
-        "coverImageUrl": "https://raw.githubusercontent.com/coolsam726/mock-api/main/fullscreen-cover.jpg"
+        "coverImageUrl": "https://raw.githubusercontent.com/coolsam726/mock-api/main/mtek.png"
     },
     {
-        "id": "hf-group-edul7",
+        "id": "housing-fi-aac8e4f4-41fe-4099-8b37-a454539549c9",
         "tenantId": null,
         "name": "HF Group",
         "primaryColor": "#004F9F",
@@ -25,12 +25,12 @@
         "dangerColor": "#FF0000",
         "logoUrl": "https://www.hfgroup.co.ke/HFC.png",
         "faviconUrl": "https://www.hfgroup.co.ke/HFC.png",
-        "coverImageUrl": "https://raw.githubusercontent.com/coolsam726/mock-api/main/fullscreen-cover.jpg"
+        "coverImageUrl": "https://raw.githubusercontent.com/coolsam726/mock-api/main/hf-group.png"
     },
     {
-        "id": "national-bank-5zlzu",
+        "id": "nbk-6584-499f-b2a7-419c72394561",
+        "name": "National Bank Of Kenya",
         "tenantId": null,
-        "name": "National  Bank Of Kenya",
         "primaryColor": "#441F15",
         "secondaryColor": "#FFCC00",
         "infoColor": "#A3AED0",
@@ -39,6 +39,6 @@
         "dangerColor": "#FF0000",
         "logoUrl": "https://www.nationalbank.co.ke/templates/nbk/images/logo.svg",
         "faviconUrl": "https://www.nationalbank.co.ke/templates/nbk/images/favicon/favicon-32x32.png",
-        "coverImageUrl": "https://raw.githubusercontent.com/coolsam726/mock-api/main/fullscreen-cover.jpg"
+        "coverImageUrl": "https://raw.githubusercontent.com/coolsam726/mock-api/main/nbk.png"
     }
 ]
