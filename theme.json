@@ -49,5 +49,22 @@
         "userIconImageUrl": "https://raw.githubusercontent.com/crispus-n/mock-api/main/nbkAvatarIcon.svg",
         "projectTitle": "NBK Personal Accident Insurance",
         "domain": "nbk"
+    },
+    {
+        "id": "equity-ban-dfa53da1-7291-453a-9719-6a84af418959",
+        "name": "Equity Bank Of Kenya",
+        "tenantId": null,
+        "primaryColor": "#912C1F",
+        "secondaryColor": "#231F20",
+        "infoColor": "#A3AED0",
+        "warningColor": "#D73636",
+        "successColor": "#36D73C",
+        "dangerColor": "#FF0000",
+        "logoUrl": "https://www.nationalbank.co.ke/templates/nbk/images/equityLogo.svg",
+        "faviconUrl": "https://raw.githubusercontent.com/crispus-n/mock-api/main/equityFavicon.ico",
+        "coverImageUrl": "https://raw.githubusercontent.com/crispus-n/mock-api/main/nbk.png",
+        "userIconImageUrl": "https://raw.githubusercontent.com/crispus-n/mock-api/main/equityAvatarIcon.svg",
+        "projectTitle": "Equity Personal Accident Insurance",
+        "domain": "equity"
     }
 ]
