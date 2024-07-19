@@ -26,7 +26,7 @@
         "warningColor": "#D73636",
         "successColor": "#36D73C",
         "dangerColor": "#FF0000",
-        "logoUrl": "https://www.hfgroup.co.ke/HFC.png",
+        "logoUrl": "https://raw.githubusercontent.com/crispus-n/mock-api/main/logo.svg",
         "faviconUrl": "https://www.hfgroup.co.ke/HFC.png",
         "coverImageUrl": "https://raw.githubusercontent.com/crispus-n/mock-api/main/hf-group.png",
         "userIconImageUrl": "https://raw.githubusercontent.com/crispus-n/mock-api/main/hfAvatarIcon.svg",
