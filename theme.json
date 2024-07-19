@@ -43,7 +43,7 @@
         "warningColor": "#D73636",
         "successColor": "#36D73C",
         "dangerColor": "#FF0000",
-        "logoUrl": "https://raw.githubusercontent.com/crispus-n/mock-api/main/nbkLogo.png",
+        "logoUrl": "https://raw.githubusercontent.com/crispus-n/mock-api/main/nbkLogo.svg",
         "faviconUrl": "https://www.nationalbank.co.ke/templates/nbk/images/favicon/favicon-32x32.png",
         "coverImageUrl": "https://raw.githubusercontent.com/crispus-n/mock-api/main/nbk.png",
         "userIconImageUrl": "https://raw.githubusercontent.com/crispus-n/mock-api/main/nbkAvatarIcon.svg",
