@@ -69,5 +69,22 @@
         "userIconImageUrl": "https://raw.githubusercontent.com/crispus-n/mock-api/main/equityAvatarIcon.svg",
         "projectTitle": "Equity Personal Accident Insurance",
         "domain": "equity"
+    },
+    {
+        "id": "britam-banca-coop-47b4-4b5e-8978-2b47fb716f8e",
+        "name": "Equity Bank Of Kenya",
+        "tenantId": null,
+        "primaryColor": "#B78B1E",
+        "secondaryColor": "#095641",
+        "infoColor": "#A3AED0",
+        "warningColor": "#D73636",
+        "successColor": "#36D73C",
+        "dangerColor": "#FF0000",
+        "logoUrl": "https://raw.githubusercontent.com/crispus-n/mock-api/main/banca/logo.svg",
+        "faviconUrl": "https://raw.githubusercontent.com/crispus-n/mock-api/main/banca/favicon.ico",
+        "coverImageUrl": "https://raw.githubusercontent.com/crispus-n/mock-api/main/nbk.png",
+        "userIconImageUrl": "https://raw.githubusercontent.com/crispus-n/mock-api/main/banca/userIcon.svg",
+        "projectTitle": "Britam | Coop Bancassurance Medical Insurance",
+        "domain": "banca"
     }
 ]
