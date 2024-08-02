@@ -86,5 +86,39 @@
         "userIconImageUrl": "https://raw.githubusercontent.com/crispus-n/mock-api/main/banca/userIcon.svg",
         "projectTitle": "Britam | Coop Bancassurance Medical Insurance",
         "domain": "banca"
+    },
+    {
+        "id": "uzapoint-870df602-8b4d-4a84-9b2c-95711d64ae9a",
+        "name": "Uzapoint Biashara Insurance",
+        "tenantId": null,
+        "primaryColor": "#2A5A5E",
+        "secondaryColor": "#469D9A",
+        "infoColor": "#A3AED0",
+        "warningColor": "#D73636",
+        "successColor": "#36D73C",
+        "dangerColor": "#FF0000",
+        "logoUrl": "https://raw.githubusercontent.com/crispus-n/mock-api/main/uzapoint/logo.svg",
+        "faviconUrl": "https://raw.githubusercontent.com/crispus-n/mock-api/main/uzapoint/favicon.ico",
+        "coverImageUrl": "https://raw.githubusercontent.com/crispus-n/mock-api/main/nbk.png",
+        "userIconImageUrl": "https://raw.githubusercontent.com/crispus-n/mock-api/main/uzapoint/userIcon.svg",
+        "projectTitle": "Uzapoint Biashara Insurance",
+        "domain": "uzapoint"
+    },
+    {
+        "id": "kyosk-fdcf-43c5-b0a2-9e0ad6c2027b",
+        "name": "Kyosk Biashara Insurance",
+        "tenantId": null,
+        "primaryColor": "#4060AF",
+        "secondaryColor": "#000000",
+        "infoColor": "#A3AED0",
+        "warningColor": "#D73636",
+        "successColor": "#36D73C",
+        "dangerColor": "#FF0000",
+        "logoUrl": "https://raw.githubusercontent.com/crispus-n/mock-api/main/kyosk/logo.svg",
+        "faviconUrl": "https://raw.githubusercontent.com/crispus-n/mock-api/main/kyosk/favicon.ico",
+        "coverImageUrl": "https://raw.githubusercontent.com/crispus-n/mock-api/main/nbk.png",
+        "userIconImageUrl": "https://raw.githubusercontent.com/crispus-n/mock-api/main/kyosk/userIcon.svg",
+        "projectTitle": "Kyosk Biashara Insurance",
+        "domain": "kyosk"
     }
 ]
